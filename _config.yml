@@ -1,0 +1,12 @@
+# Site settings
+title: Olimpiada Hidalguense de Matemáticas
+email: 
+description: > # this means to ignore newlines until "baseurl:"
+  Sitio de la olimpiada de matemáticas en el estado de Hidalgo, México.
+baseurl: "/pagina-olimpiada" # the subpath of your site, e.g. /blog/
+url: "http://ohm.org.mx" # the base hostname & protocol for your site
+twitter_username: 
+github_username:  
+
+# Build settings
+markdown: kramdown
