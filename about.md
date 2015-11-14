@@ -4,8 +4,12 @@ title: Inicio
 permalink: /inicio/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Podemos poner matemáticas, `$$x^2+y^2=z^2$$, $$x_1+x_2=2$$` sale en el
+texto como: $$x^2+y^2=z^2$$, $$x_1+x_2=2$$, para poner texto después.
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+Y para poner display:
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+$$
+x^2+y^2=z^2
+$$
+
