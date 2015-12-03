@@ -7,4 +7,4 @@ published: true
 categories: 
 ---
 
--   [2007](https://sites.google.com/site/ohmpagina/home/examenes-anteriores/2007ExamEstatalHidalgo.pdf?attredirects=0&d=1)
+-   [2007](https://dl.dropboxusercontent.com/u/1328391/ExAnterioresOlimpiada/2007ExamEstatalHidalgo.pdf)
