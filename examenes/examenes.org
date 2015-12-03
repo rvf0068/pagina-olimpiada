@@ -1,0 +1,10 @@
+#+title: Exámenes anteriores
+#+date: 
+#+language: es
+#+layout: page
+
+#+link:	archivo https://github.com/rvf0068/pagina-olimpiada/blob/gh-pages/pdfs/%s.pdf?raw=true
+
+* 2007 - 2008
+
+  - [[archivo:ExamenHidalgo2007][2007]]
