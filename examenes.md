@@ -7,4 +7,4 @@ published: true
 categories: 
 ---
 
--   [2007](https://github.com/rvf0068/pagina-olimpiada/blob/master/pdfs/ExamenHidalgo2007.pdf?raw=true)
+-   [2007](https://sites.google.com/site/ohmpagina/home/examenes-anteriores/2007ExamEstatalHidalgo.pdf?attredirects=0&d=1)
