@@ -7,4 +7,7 @@
 - url: /examenes.html
   title: Exámenes anteriores
   group: navigation
+- url: /resultados.html
+  title: Resultados
+  group: navigation
   
