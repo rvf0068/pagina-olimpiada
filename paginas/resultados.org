@@ -4,7 +4,7 @@
 #+layout: page
 #+options: toc:nil
 
-#+link:	pdf https://github.com/rvf0068/olimpiada/raw/gh-pages/pdfs/%s.pdf?raw=true
+#+link:	pdf https://github.com/rvf0068/pagina-olimpiada/raw/gh-pages/pdfs/%s.pdf?raw=true
 
 [[pdf:Finalistas_por_apellido][Aquí]] están los estudiantes finalistas,
 ordenados por apellido.
