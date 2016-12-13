@@ -14,4 +14,3 @@ en la Olimpiada Internacional de Matemáticas.
 {: .center}
 ![img]({{ site.baseurl }}/images/oli.jpg)
 
-**¡Ya están los [resultados](./resultados.html) de la primera fase!**
