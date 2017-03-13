@@ -7,7 +7,7 @@ published: true
 categories: 
 ---
 
-[Aquí](https://github.com/rvf0068/olimpiada/raw/gh-pages/pdfs/pub_list.pdf?raw=true) están los estudiantes finalistas,
+[Aquí](https://github.com/rvf0068/olimpiada/raw/gh-pages/pdfs/pub_lista.pdf?raw=true) están los estudiantes finalistas,
 ordenados por primer nombre.
 
 Recuerda que la segunda etapa del concurso se llevará a cabo el sábado
