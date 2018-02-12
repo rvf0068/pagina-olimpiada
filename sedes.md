@@ -14,7 +14,7 @@ categories:
 COBAEH Actopan  
 Carr. Daxtha - San Salvador No. 17  
 Coord. Exequiel López Álvarez  
-(771) 238-3935  
+(771) 2383-935  
 ohmactopan@gmail.com  
 
 
@@ -22,7 +22,7 @@ ohmactopan@gmail.com
 
 ES de Cd. Sahagún - UAEH  
 Carr. Cd. Sahagún - Otumba Km. 3.5  
-Coord. Ma. Rafaela Mohedano Juárez  
+Coord. Rafaela Mohedano Juárez  
 (771) 7172-000 ext. 5300  
 ohmcdsahagun@gmail.com  
 
@@ -31,7 +31,7 @@ ohmcdsahagun@gmail.com
 
 ES de Huejutla UAEH  
 Carr. México-Tampico km. 217  
-Coord. Virginia Arguelles Pascual  
+Coord. Virginia Argüelles Pascual  
 (771) 7172-000 ext. 5880  
 ohmhuejutla@gmail.com  
 
@@ -41,7 +41,7 @@ ohmhuejutla@gmail.com
 Instituto Don Bosco  
 Patoni 42  
 Coord. Juan Ignacio Arriola Ruiz  
-(761) 782-2251  
+(761) 7822-251  
 ohmhuichapan@gmail.com  
 
 
@@ -54,22 +54,39 @@ Coord. Marco Antonio de la Concha Vargas
 ohmixmiquilpan@gmail.com  
 
 
+# Ixtlahuaco
+
+Preparatoria Ixtlahuaco - UAEH  
+Barrio Santa Lucía S/N  
+(771) 7172-000 ext 4801  
+OMMIxtlahuaco18@gmail.com  
+
+
 # Metztitlán
 
 CECYTEH Metztitlán  
 Av. Tepeyaca 100  
 Coord. Rosa Reyes Fernández  
-(774) 743-0972  
+(774) 7430-972  
 ohmmetztitlan@gmail.com  
 
 
 # Pachuca
 
-Preparatoria 1 - UAEH  
-Av. Juárez 1100  
+Colegio Miguel de Cervantes Saavedra
+Colegio Cervantes 103. Fracc. Colosio
 Coord. Ingrid Rivera Raygadas  
-(771) 7172-000 ext.  
+(771) 7180-101  
 ohmpachuca@gmail.com  
+
+
+# Pisaflores
+
+COBAEH Pisaflores  
+Av. Independencia s/n  
+Coord. Pedro Martínez De La Cruz  
+(772) 1315-960  
+OMMPisaflores18@gmail.com  
 
 
 # Tenango de Doria
