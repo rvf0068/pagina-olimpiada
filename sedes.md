@@ -73,8 +73,8 @@ ohmmetztitlan@gmail.com
 
 # Pachuca
 
-Colegio Miguel de Cervantes Saavedra
-Colegio Cervantes 103. Fracc. Colosio
+Colegio Miguel de Cervantes Saavedra  
+Colegio Cervantes 103. Fracc. Colosio  
 Coord. Ingrid Rivera Raygadas  
 (771) 7180-101  
 ohmpachuca@gmail.com  
