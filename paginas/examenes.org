@@ -18,3 +18,5 @@
 - [[pdf:2015ExamEstatalHidalgo2][2015, segunda parte]]
 - [[pdf:2016ExamEstatalHidalgo1][2016, primera parte]]
 - [[pdf:2016ExamEstatalHidalgo2][2016, segunda parte]]
+- [[pdf:2017ExamEstatalHidalgo1][2017, primera parte]]
+- [[pdf:2017ExamEstatalHidalgo2][2017, segunda parte]]

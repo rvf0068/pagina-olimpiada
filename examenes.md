@@ -19,4 +19,6 @@ categories:
 -   [2015, segunda parte](https://github.com/rvf0068/pagina-olimpiada/raw/gh-pages/pdfs/2015ExamEstatalHidalgo2.pdf?raw=true)
 -   [2016, primera parte](https://github.com/rvf0068/pagina-olimpiada/raw/gh-pages/pdfs/2016ExamEstatalHidalgo1.pdf?raw=true)
 -   [2016, segunda parte](https://github.com/rvf0068/pagina-olimpiada/raw/gh-pages/pdfs/2016ExamEstatalHidalgo2.pdf?raw=true)
+-   [2017, primera parte](https://github.com/rvf0068/pagina-olimpiada/raw/gh-pages/pdfs/2017ExamEstatalHidalgo1.pdf?raw=true)
+-   [2017, segunda parte](https://github.com/rvf0068/pagina-olimpiada/raw/gh-pages/pdfs/2017ExamEstatalHidalgo2.pdf?raw=true)
 
